@@ -12117,6 +12117,10 @@
 0x05184bfd6f,dance
 0x0dc0d40db8,dance_num_max
 0x0dfcd932e1,dance_num_min
+0x0c06cd9d72,dance_pose_a
+0x0c9fc4ccc8,dance_pose_b
+0x0ce8c3fc5e,dance_pose_c
+0x0c76a769fd,dance_pose_d
 0x06b6156075,danger
 0x11588e61a3,danger_area_easel
 0x10ecfa0d60,danger_area_fire
@@ -92731,6 +92735,7 @@
 0x0891a94e6f,yuka_fly
 0x0ba884eb26,yukikaburi1
 0x08a702d2d4,yukinooh
+0x13bc070105,yukinooh_bliz_count
 0x12c9a867bd,yukinooh_disappear
 0x180550b9d4,yukinooh_punch_move_dist
 0x193d9a0894,yukinooh_punch_move_start

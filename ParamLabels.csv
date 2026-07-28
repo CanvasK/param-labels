@@ -31917,6 +31917,8 @@
 0x06293f68d7,kyogre
 0x1376813bac,kyogre_attack_angle
 0x14e69da939,kyogre_attack_change
+0x15c6553931,kyogre_attack_limdown
+0x13e88c0f81,kyogre_attack_limup
 0x12b0e4d3f8,kyogre_fly_accel_x
 0x12c7e3e36e,kyogre_fly_accel_y
 0x0f328553fc,kyogre_fly_limx
@@ -31932,6 +31934,8 @@
 0x1b664b40e7,kyogre_stereo_fade_in_limit
 0x1c191af646,kyogre_stereo_fade_out_limit
 0x1c69aae0d0,kyogre_stereo_fade_out_speed
+0x15d3854aec,kyogre_target_inter_x
+0x15a4827a7a,kyogre_target_inter_y
 0x0a4c2c2153,kyogreshot
 0x0f4e4e8c28,kyogreshot_life
 0x06072eb213,kyurem

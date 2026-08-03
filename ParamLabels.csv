@@ -35457,6 +35457,14 @@
 0x05643ff0b4,melia
 0x08bdf00c7d,meloetta
 0x0c9a242712,meloettashot
+0x0fe2dc18dc,meloettta_angle
+0x14e1a02297,meloettta_move_accel
+0x14aa7e29f9,meloettta_move_brake
+0x1e414dd192,meloettta_move_duration_frames
+0x19c839a49c,meloettta_move_init_speed
+0x18b2ff71b9,meloettta_move_max_speed
+0x1eb41aac50,meloettta_shot_duration_frames
+0x144c218b6c,meloettta_shot_speed
 0x1226d442be,melt_offset_x_back
 0x136ad443f1,melt_offset_x_front
 0x12ed88911b,melt_offset_y_back

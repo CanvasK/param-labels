@@ -92750,6 +92750,8 @@
 0x0ba884eb26,yukikaburi1
 0x08a702d2d4,yukinooh
 0x13bc070105,yukinooh_bliz_count
+0x17b236e2bb,yukinooh_bliz_frame_min
+0x178e3bdde2,yukinooh_bliz_frame_max
 0x12c9a867bd,yukinooh_disappear
 0x180550b9d4,yukinooh_punch_move_dist
 0x193d9a0894,yukinooh_punch_move_start

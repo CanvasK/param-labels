@@ -12690,6 +12690,7 @@
 0x0d89def2d4,dedede_vacuum
 0x075e09ca09,dedenne
 0x1c2070310b,dedenne_initial_jump_speed_y
+0x1c05b4c8cd,dedenne_unit_rotation_frames
 0x0b1726131d,dedenneshot
 0x07686f1320,dee_jay
 0x0e4a72df7a,deep_breathing
@@ -21452,6 +21453,7 @@
 0x143887d041,fokko_fire_scale_min
 0x10249c2744,fokko_fire_speed
 0x152361b7d1,fokko_fire_until_life
+0x1f0468cc27,fokko_shot_down_scale_par_frame
 0x0ff33035d4,fokko_shot_life
 0x141aa26fce,fokko_shot_max_scale
 0x13faba29fc,fokko_shot_offset_x
@@ -30997,6 +30999,7 @@
 0x06798a6e6b,keldeo
 0x13a0dba446,keldeo_attack_range
 0x12800fd554,keldeo_attack_rate
+0x1968c9843f,keldeo_duration_in_frames
 0x0fa4907f35,keldeo_resolute
 0x102a52242d,keldeo_run_accel
 0x10618c2f43,keldeo_run_brake
@@ -37253,6 +37256,8 @@
 0x0be6909a03,namakobushi
 0x0fe89415f6,namakobushi_arc
 0x163a93e07a,namakobushi_life_frame
+0x20c7e958a3,namakobushi_next_attack_interval
+0x221a03395c,namakobushi_tread_jump_energy_rate
 0x05b068b289,namco
 0x0789614360,namco_a
 0x07106812da,namco_b
@@ -44554,6 +44559,7 @@
 0x144bcc2663,rokon_fire_scale_min
 0x104d9673a4,rokon_fire_speed
 0x15f672bdc3,rokon_fire_until_life
+0x1fb9d20d46,rokon_shot_down_scale_par_frame
 0x0fffa62b47,rokon_shot_life
 0x1469e999ec,rokon_shot_max_scale
 0x10bd7d9ecb,rokon_shot_speed
@@ -92750,8 +92756,8 @@
 0x0ba884eb26,yukikaburi1
 0x08a702d2d4,yukinooh
 0x13bc070105,yukinooh_bliz_count
-0x17b236e2bb,yukinooh_bliz_frame_min
 0x178e3bdde2,yukinooh_bliz_frame_max
+0x17b236e2bb,yukinooh_bliz_frame_min
 0x12c9a867bd,yukinooh_disappear
 0x180550b9d4,yukinooh_punch_move_dist
 0x193d9a0894,yukinooh_punch_move_start
